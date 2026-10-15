@@ -1,0 +1,6 @@
+{
+  "name": "LibraTrack",
+  "description": "Professional library management system for administrators and librarians featuring book cataloging, student records, borrow/return circulation desk, overdue loan tracking, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
